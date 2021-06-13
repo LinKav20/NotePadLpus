@@ -1,0 +1,8 @@
+SETTINGS
+Theme:0
+AUTOSAVE:60000
+FILES:
+START
+C:\Users\Linok\Desktop\test.txt
+C:\Users\Linok\Desktop\ghjk.rtf
+END
